@@ -1,0 +1,66 @@
+c:\users\agon\source\repos\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.deps.json
+c:\users\agon\source\repos\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.runtimeconfig.json
+c:\users\agon\source\repos\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.runtimeconfig.dev.json
+c:\users\agon\source\repos\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.dll
+c:\users\agon\source\repos\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.pdb
+c:\users\agon\source\repos\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.csprojResolveAssemblyReference.cache
+c:\users\agon\source\repos\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.csproj.CoreCompileInputs.cache
+c:\users\agon\source\repos\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.AssemblyInfoInputs.cache
+c:\users\agon\source\repos\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.AssemblyInfo.cs
+c:\users\agon\source\repos\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.dll
+c:\users\agon\source\repos\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.pdb
+C:\Users\blend\Desktop\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.deps.json
+C:\Users\blend\Desktop\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.runtimeconfig.json
+C:\Users\blend\Desktop\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.runtimeconfig.dev.json
+C:\Users\blend\Desktop\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.dll
+C:\Users\blend\Desktop\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.pdb
+C:\Users\blend\Desktop\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.csprojAssemblyReference.cache
+C:\Users\blend\Desktop\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.csproj.CoreCompileInputs.cache
+C:\Users\blend\Desktop\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.AssemblyInfoInputs.cache
+C:\Users\blend\Desktop\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.AssemblyInfo.cs
+C:\Users\blend\Desktop\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.dll
+C:\Users\blend\Desktop\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.pdb
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.deps.json
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.runtimeconfig.json
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.runtimeconfig.dev.json
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.dll
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.pdb
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.csprojResolveAssemblyReference.cache
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.csproj.CoreCompileInputs.cache
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.AssemblyInfoInputs.cache
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.AssemblyInfo.cs
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.dll
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.pdb
+C:\Users\hp\Desktop\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.deps.json
+C:\Users\hp\Desktop\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.runtimeconfig.json
+C:\Users\hp\Desktop\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.dll
+C:\Users\hp\Desktop\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.pdb
+C:\Users\hp\Desktop\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.AssemblyInfo.cs
+C:\Users\hp\Desktop\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.dll
+C:\Users\hp\Desktop\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.pdb
+C:\Users\hp\Desktop\Detyrat AI\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.deps.json
+C:\Users\hp\Desktop\Detyrat AI\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.runtimeconfig.json
+C:\Users\hp\Desktop\Detyrat AI\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Detyrat AI\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.dll
+C:\Users\hp\Desktop\Detyrat AI\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.pdb
+C:\Users\hp\Desktop\Detyrat AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Detyrat AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Detyrat AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Detyrat AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.AssemblyInfo.cs
+C:\Users\hp\Desktop\Detyrat AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.dll
+C:\Users\hp\Desktop\Detyrat AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.pdb
+E:\Argjenda FIEK\AI ushtrimet\Detyrat AI\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.deps.json
+E:\Argjenda FIEK\AI ushtrimet\Detyrat AI\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.runtimeconfig.json
+E:\Argjenda FIEK\AI ushtrimet\Detyrat AI\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.runtimeconfig.dev.json
+E:\Argjenda FIEK\AI ushtrimet\Detyrat AI\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.dll
+E:\Argjenda FIEK\AI ushtrimet\Detyrat AI\Detyra2\Detyra2\Detyra2\bin\Debug\netcoreapp2.0\Detyra2.pdb
+E:\Argjenda FIEK\AI ushtrimet\Detyrat AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.csprojResolveAssemblyReference.cache
+E:\Argjenda FIEK\AI ushtrimet\Detyrat AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.csproj.CoreCompileInputs.cache
+E:\Argjenda FIEK\AI ushtrimet\Detyrat AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.AssemblyInfoInputs.cache
+E:\Argjenda FIEK\AI ushtrimet\Detyrat AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.AssemblyInfo.cs
+E:\Argjenda FIEK\AI ushtrimet\Detyrat AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.dll
+E:\Argjenda FIEK\AI ushtrimet\Detyrat AI\Detyra2\Detyra2\Detyra2\obj\Debug\netcoreapp2.0\Detyra2.pdb
