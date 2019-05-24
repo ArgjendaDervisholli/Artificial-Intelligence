@@ -1,0 +1,60 @@
+C:\Users\Agon\source\repos\8QueenProblem1\8QueenProblem1\bin\Debug\8QueenProblem1.exe.config
+C:\Users\Agon\source\repos\8QueenProblem1\8QueenProblem1\bin\Debug\8QueenProblem1.exe
+C:\Users\Agon\source\repos\8QueenProblem1\8QueenProblem1\bin\Debug\8QueenProblem1.pdb
+C:\Users\Agon\source\repos\8QueenProblem1\8QueenProblem1\obj\Debug\8QueenProblem1.csprojResolveAssemblyReference.cache
+C:\Users\Agon\source\repos\8QueenProblem1\8QueenProblem1\obj\Debug\_8QueenProblem1.Properties.Resources.resources
+C:\Users\Agon\source\repos\8QueenProblem1\8QueenProblem1\obj\Debug\8QueenProblem1.csproj.GenerateResource.cache
+C:\Users\Agon\source\repos\8QueenProblem1\8QueenProblem1\obj\Debug\8QueenProblem1.csproj.CoreCompileInputs.cache
+C:\Users\Agon\source\repos\8QueenProblem1\8QueenProblem1\obj\Debug\8QueenProblem1.exe
+C:\Users\Agon\source\repos\8QueenProblem1\8QueenProblem1\obj\Debug\8QueenProblem1.pdb
+C:\Users\Agon\source\repos\8QueenProblem1\8QueenProblem1\obj\Debug\_8QueenProblem1.QueenProblem.resources
+C:\Users\blend\Desktop\8QueenProblem1\8QueenProblem1\bin\Debug\8QueenProblem1.exe.config
+C:\Users\blend\Desktop\8QueenProblem1\8QueenProblem1\bin\Debug\8QueenProblem1.exe
+C:\Users\blend\Desktop\8QueenProblem1\8QueenProblem1\bin\Debug\8QueenProblem1.pdb
+C:\Users\blend\Desktop\8QueenProblem1\8QueenProblem1\obj\Debug\8QueenProblem1.csprojAssemblyReference.cache
+C:\Users\blend\Desktop\8QueenProblem1\8QueenProblem1\obj\Debug\_8QueenProblem1.QueenProblem.resources
+C:\Users\blend\Desktop\8QueenProblem1\8QueenProblem1\obj\Debug\_8QueenProblem1.Properties.Resources.resources
+C:\Users\blend\Desktop\8QueenProblem1\8QueenProblem1\obj\Debug\8QueenProblem1.csproj.GenerateResource.cache
+C:\Users\blend\Desktop\8QueenProblem1\8QueenProblem1\obj\Debug\8QueenProblem1.csproj.CoreCompileInputs.cache
+C:\Users\blend\Desktop\8QueenProblem1\8QueenProblem1\obj\Debug\8QueenProblem1.exe
+C:\Users\blend\Desktop\8QueenProblem1\8QueenProblem1\obj\Debug\8QueenProblem1.pdb
+C:\Users\Agon\Desktop\8QueenProblem1\8QueenProblem1\8QueenProblem1\bin\Debug\8QueenProblem1.exe.config
+C:\Users\Agon\Desktop\8QueenProblem1\8QueenProblem1\8QueenProblem1\bin\Debug\8QueenProblem1.exe
+C:\Users\Agon\Desktop\8QueenProblem1\8QueenProblem1\8QueenProblem1\bin\Debug\8QueenProblem1.pdb
+C:\Users\Agon\Desktop\8QueenProblem1\8QueenProblem1\8QueenProblem1\obj\Debug\8QueenProblem1.csprojResolveAssemblyReference.cache
+C:\Users\Agon\Desktop\8QueenProblem1\8QueenProblem1\8QueenProblem1\obj\Debug\_8QueenProblem1.QueenProblem.resources
+C:\Users\Agon\Desktop\8QueenProblem1\8QueenProblem1\8QueenProblem1\obj\Debug\_8QueenProblem1.Properties.Resources.resources
+C:\Users\Agon\Desktop\8QueenProblem1\8QueenProblem1\8QueenProblem1\obj\Debug\8QueenProblem1.csproj.GenerateResource.cache
+C:\Users\Agon\Desktop\8QueenProblem1\8QueenProblem1\8QueenProblem1\obj\Debug\8QueenProblem1.csproj.CoreCompileInputs.cache
+C:\Users\Agon\Desktop\8QueenProblem1\8QueenProblem1\8QueenProblem1\obj\Debug\8QueenProblem1.exe
+C:\Users\Agon\Desktop\8QueenProblem1\8QueenProblem1\8QueenProblem1\obj\Debug\8QueenProblem1.pdb
+C:\Users\blend\Desktop\8QueenProblem - FCH\8QueenProblem1\bin\Debug\8QueenProblem1.exe.config
+C:\Users\blend\Desktop\8QueenProblem - FCH\8QueenProblem1\bin\Debug\8QueenProblem1.exe
+C:\Users\blend\Desktop\8QueenProblem - FCH\8QueenProblem1\bin\Debug\8QueenProblem1.pdb
+C:\Users\blend\Desktop\8QueenProblem - FCH\8QueenProblem1\obj\Debug\8QueenProblem1.csprojAssemblyReference.cache
+C:\Users\blend\Desktop\8QueenProblem - FCH\8QueenProblem1\obj\Debug\_8QueenProblem1.QueenProblem.resources
+C:\Users\blend\Desktop\8QueenProblem - FCH\8QueenProblem1\obj\Debug\_8QueenProblem1.Properties.Resources.resources
+C:\Users\blend\Desktop\8QueenProblem - FCH\8QueenProblem1\obj\Debug\8QueenProblem1.csproj.GenerateResource.cache
+C:\Users\blend\Desktop\8QueenProblem - FCH\8QueenProblem1\obj\Debug\8QueenProblem1.csproj.CoreCompileInputs.cache
+C:\Users\blend\Desktop\8QueenProblem - FCH\8QueenProblem1\obj\Debug\8QueenProblem1.exe
+C:\Users\blend\Desktop\8QueenProblem - FCH\8QueenProblem1\obj\Debug\8QueenProblem1.pdb
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra1\8QueenProblem - FCH\8QueenProblem1\bin\Debug\8QueenProblem1.exe.config
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra1\8QueenProblem - FCH\8QueenProblem1\bin\Debug\8QueenProblem1.exe
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra1\8QueenProblem - FCH\8QueenProblem1\bin\Debug\8QueenProblem1.pdb
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra1\8QueenProblem - FCH\8QueenProblem1\obj\Debug\8QueenProblem1.csprojResolveAssemblyReference.cache
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra1\8QueenProblem - FCH\8QueenProblem1\obj\Debug\_8QueenProblem1.QueenProblem.resources
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra1\8QueenProblem - FCH\8QueenProblem1\obj\Debug\_8QueenProblem1.Properties.Resources.resources
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra1\8QueenProblem - FCH\8QueenProblem1\obj\Debug\8QueenProblem1.csproj.GenerateResource.cache
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra1\8QueenProblem - FCH\8QueenProblem1\obj\Debug\8QueenProblem1.csproj.CoreCompileInputs.cache
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra1\8QueenProblem - FCH\8QueenProblem1\obj\Debug\8QueenProblem1.exe
+C:\Users\Agon\Desktop\Detyrat ne AI\Detyra1\8QueenProblem - FCH\8QueenProblem1\obj\Debug\8QueenProblem1.pdb
+C:\Users\hp\Desktop\Detyra1\8QueenProblem - FCH\8QueenProblem1\bin\Debug\8QueenProblem1.exe.config
+C:\Users\hp\Desktop\Detyra1\8QueenProblem - FCH\8QueenProblem1\bin\Debug\8QueenProblem1.exe
+C:\Users\hp\Desktop\Detyra1\8QueenProblem - FCH\8QueenProblem1\bin\Debug\8QueenProblem1.pdb
+C:\Users\hp\Desktop\Detyra1\8QueenProblem - FCH\8QueenProblem1\obj\Debug\8QueenProblem1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Detyra1\8QueenProblem - FCH\8QueenProblem1\obj\Debug\_8QueenProblem1.QueenProblem.resources
+C:\Users\hp\Desktop\Detyra1\8QueenProblem - FCH\8QueenProblem1\obj\Debug\_8QueenProblem1.Properties.Resources.resources
+C:\Users\hp\Desktop\Detyra1\8QueenProblem - FCH\8QueenProblem1\obj\Debug\8QueenProblem1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Detyra1\8QueenProblem - FCH\8QueenProblem1\obj\Debug\8QueenProblem1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Detyra1\8QueenProblem - FCH\8QueenProblem1\obj\Debug\8QueenProblem1.exe
+C:\Users\hp\Desktop\Detyra1\8QueenProblem - FCH\8QueenProblem1\obj\Debug\8QueenProblem1.pdb
